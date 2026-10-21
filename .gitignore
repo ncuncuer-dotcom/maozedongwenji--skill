@@ -1,0 +1,21 @@
+# Local research data and generated files
+*.pdf
+*.PDF
+*.sqlite
+*.sqlite-*
+*.db
+*.db-*
+sources.json
+catalogue.json
+catalogue.md
+local-manifest*.json
+work/
+data/
+local-data/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
+.env.*
