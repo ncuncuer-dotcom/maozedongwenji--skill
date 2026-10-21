@@ -1,0 +1,3 @@
+interface:
+  display_name: "毛泽东文集论文引文检索"
+  short_description: "检索毛泽东文集一至八卷，匹配论文主题并核对原话、上下文和出处"
